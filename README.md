@@ -29,3 +29,9 @@ Here you have ones assets that have been used here.
 ## Our Contributors
 
 ![Nico1Monte](https://avatars.githubusercontent.com/u/170886455?s=64&v=4)
+
+## Completed
+
+- [x] Readme Images
+- [ ] InternetX Images
+- [ ] Site images
