@@ -26,6 +26,6 @@ Here you have ones assets that have been used here.
 <a href="./assets/readme/main/internetx_assets.png"><img src="./assets/readme/main/internetx_assets.png" width="50" height="30"></a>
 </p>
 
-# Our Contributors
+## Our Contributors
 
 ![Nico1Monte](https://avatars.githubusercontent.com/u/170886455?s=64&v=4)
